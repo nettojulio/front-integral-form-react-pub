@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Prática Eventos
+# Prática React
 
 ## Exercícios de classe 🏫
 1. Projeto "Galeria"
@@ -14,5 +14,5 @@ Preencha a checklist para fazer os exercícios:
 -   [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
 -   [ ] Copiar a url do seu fork e enviar na plataforma
 
-###### tags: `módulo 2` `front-end` `HTML` `DOM`
+###### tags: `módulo 3` `front-end` `React`
 
