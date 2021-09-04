@@ -17,8 +17,8 @@ Utilizando o projeto React da pasta "base" como base (ou criando um projeto a pa
   - 5. Depois de pegar o dados da rota de busca do Spotify, você deverá controlar o estado dessa requisição, sempre informando o usuário quando acontecer algum erro, quando a busca dele resultar em nada ou quando a busca ainda estiver acontecendo ("carregando").
 
 **Tarefas extras para praticar mais!**
-  - 6. **Extra** - Tente procurar outras rotas da API do Spotify para integrar com sua aplicação, ou mesmo alguma outra API. (preste atenção se a API precisa de autorização)
-  - 7. **Extra** - Estilize sua aplicação! [Aqui vão alguns exemplos de designs para aplicações relacionadas a música](https://dribbble.com/search/music)
+  - **Extra** - Tente procurar outras rotas da API do Spotify para integrar com sua aplicação, ou mesmo alguma outra API. (preste atenção se a API precisa de autorização)
+  - **Extra** - Estilize sua aplicação! [Aqui vão alguns exemplos de designs para aplicações relacionadas a música](https://dribbble.com/search/music)
 
 ---
 
