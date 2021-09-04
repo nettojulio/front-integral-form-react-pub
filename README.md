@@ -1,9 +1,9 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Prática React
+# Formulários no React
 
 ## Exercícios de classe 🏫
-1. Projeto "Galeria"
+1. Integrando com o Spotify
 
 ---
 
