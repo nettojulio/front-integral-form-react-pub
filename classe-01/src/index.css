@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+.App {
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
+  padding: 15px;
+  gap: 15px;
+}
+
+.failure,
+.loading,
+.empty {
+  display: grid;
+  place-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+input {
+  all: unset;
+  border: 1px solid #fff;
+  border-radius: 12px;
+  padding: 8px;
+}
+
+.header {
+  background-color: #000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.logo-1 {
+  width: 14%;
+}

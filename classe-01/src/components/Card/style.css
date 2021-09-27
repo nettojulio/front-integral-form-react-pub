@@ -1,0 +1,35 @@
+.card {
+  background-color: #000;
+  border: 1px solid #fff;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.card a {
+  text-decoration: none;
+  display: grid;
+  place-content: center;
+  padding: 0;
+  margin-right: 30px;
+}
+
+.card b {
+  margin-right: 8px;
+}
+
+.like {
+  position: absolute;
+  right: 30px;
+  cursor: pointer;
+  width: 24px;
+}
+
+p {
+  margin-right: 5px;
+}
+
+.card:hover {
+  background-color: #ffffff70;
+}
