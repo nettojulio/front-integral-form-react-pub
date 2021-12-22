@@ -11,7 +11,7 @@ function Card({ track }) {
 
   return (
     <div id={id} className="card">
-      <a href={external_urls.spotify} target="_blank">
+      <a href={external_urls.spotify} target="_blank" rel="noreferrer">
         <img src={getAlbumCover(album)} alt={`${name} album cover`} />
       </a>
       <p>{explicit ? '🔞' : '     '}</p>
